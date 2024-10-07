@@ -1,3 +1,4 @@
+# Exercício 03
 """
 Escreva uma função para que dado uma lista de alunos e suas notas, retorne apenas os alunos que foram aprovados
 Os alunos e as notas serão representados como uma lista de listas de duas posições onde a primeira é o nome do aluno

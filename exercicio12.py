@@ -1,3 +1,4 @@
+# Exercício 12
 """
 Escreva uma função que recebe uma string e faz as seguintes substituições:
 - Caracteres 'a' e 'A' devem ser substituídos por '4'

@@ -1,3 +1,4 @@
+# Exercício 02
 """
 Complete a funcao calcular_divisores abaixo. A função deve receber um número inteiro e retornar a lista
 com todos os divisores do menor para o maior.

@@ -1,3 +1,4 @@
+# Exercício 16
 """
 Um carro foi monitorado via gps para testes de desempenho de velocidade.
 Ele viajou entre duas cidades A e B.
