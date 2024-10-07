@@ -16,6 +16,7 @@ Para o aluno ser aprovado ele deve obter nota maior que ou igual a 7.0
 
 
 def encontrar_alunos_aprovados(alunos_e_notas):
+    # Modifique essa função
     return None
 
 
