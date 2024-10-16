@@ -29,7 +29,12 @@ def calcular_media(*args):
     pass
 
 
-# Teste sua função com os exemplos fornecidos
-print(calcular_media(10, 20, 30))  # Esperado: 20.0
-print(calcular_media(5, 7, 9, 11))  # Esperado: 8.0
-print(calcular_media(2, 4, 6, 8, 10))  # Esperado: 6.0
+def main():
+    # Teste sua função com os exemplos fornecidos
+    print(calcular_media(10, 20, 30))  # Esperado: 20.0
+    print(calcular_media(5, 7, 9, 11))  # Esperado: 8.0
+    print(calcular_media(2, 4, 6, 8, 10))  # Esperado: 6.0
+
+
+if __name__ == "__main__":
+    main()

@@ -15,3 +15,8 @@ Exemplo:
     deve retornar '4g0r4 3v s31 0nd3 f1c4 4 c454 d0 J040'
 
 """
+
+
+def substituir_caracteres(string):
+    # Escreva seu código aqui
+    pass

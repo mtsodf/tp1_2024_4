@@ -9,7 +9,7 @@ def calcular_divisores(n):
     return None
 
 
-if __name__ == "__main__":
+def main():
     # Não mexa nessa função
 
     testes = [
@@ -40,3 +40,7 @@ if __name__ == "__main__":
 
     print(f"Acertos: {acertos}")
     print(f"Erros: {erros}")
+
+
+if __name__ == "__main__":
+    main()

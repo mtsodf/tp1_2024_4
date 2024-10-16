@@ -19,7 +19,7 @@ def verificar_acertos(jogos, sorteio):
     pass
 
 
-if __name__ == "__main__":
+def main():
     jogos = [[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12], [1, 2, 3, 7, 8, 9]]
     sorteio = [1, 2, 3, 4, 5, 6]
 
@@ -29,3 +29,7 @@ if __name__ == "__main__":
         print("Passou no teste")
     else:
         print("Não passou no teste")
+
+
+if __name__ == "__main__":
+    main()

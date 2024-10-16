@@ -26,3 +26,6 @@ Escreva sua resposta aqui
 
 
 # d) Se for passado o argumento "tp1.pdf.backup", qual seria o retorno da função?
+"""
+Escreva sua resposta aqui
+"""

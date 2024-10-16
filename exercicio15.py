@@ -16,3 +16,21 @@ A média é o valor obtido pela soma de todos os valores dividido pela quantidad
 
 Dica: Para o calculo da mediana, utilize é mais fácil ordenar a lista de números.
 """
+
+
+def mediana(lista):
+    # Escreva seu código aqui
+    pass
+
+
+def media(lista):
+    # Escreva seu código aqui
+    pass
+
+
+def main():
+    # Teste suas funções com os exemplos fornecidos
+    listas = [[1, 2, 3, 4, 5], [1, 2, 3, 4, 5, 6], [1, 2, 3, 10, 12], [1, 2, 3, 4, 100]]
+
+    for lista in listas:
+        print(f"Lista: {lista} | Mediana: {mediana(lista)} | Média: {media(lista)}")
