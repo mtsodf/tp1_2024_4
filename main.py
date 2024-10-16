@@ -12,9 +12,6 @@ if not nome or not sobrenome:
 ####################################################################
 
 import os
-import re
-import io
-import sys
 
 
 def listar_exercicios():
