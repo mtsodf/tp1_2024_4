@@ -21,7 +21,7 @@ def main():
         ("Python Programming", 4),
         ("12345", 0),
         ("aeiouAEIOU", 10),
-        ("Vogais e Consoantes", 7),
+        ("Vogais e Consoantes", 8),
     ]
 
     acertos = 0

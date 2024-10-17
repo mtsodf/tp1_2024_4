@@ -12,7 +12,7 @@ Escreva uma função que recebe uma string e faz as seguintes substituições:
 
 Exemplo:
     substituir_caracteres('Agora eu sei onde fica a casa do Joao')
-    deve retornar '4g0r4 3v s31 0nd3 f1c4 4 c454 d0 J040'
+    deve retornar '4g0r4 3v 531 0nd3 f1c4 4 c454 d0 J040'
 
 """
 
@@ -20,3 +20,14 @@ Exemplo:
 def substituir_caracteres(string):
     # Escreva seu código aqui
     pass
+
+
+def main():
+    # Teste sua função com os exemplos fornecidos
+    print(
+        substituir_caracteres("Agora eu sei onde fica a casa do Joao")
+    )  # Esperado: '4g0r4 3v 531 0nd3 f1c4 4 c454 d0 J040'
+
+
+if __name__ == "__main__":
+    main()
