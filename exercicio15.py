@@ -34,3 +34,7 @@ def main():
 
     for lista in listas:
         print(f"Lista: {lista} | Mediana: {mediana(lista)} | Média: {media(lista)}")
+
+
+if __name__ == "__main__":
+    main()

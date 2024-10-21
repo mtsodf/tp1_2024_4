@@ -18,3 +18,7 @@ def main():
     print(f"somar_primos(3) = {somar_primos(3)}")  # Esperado: 10
     print(f"somar_primos(5) = {somar_primos(5)}")  # Esperado: 28
     print(f"somar_primos(10) = {somar_primos(10)}")  # Esperado: 129
+
+
+if __name__ == "__main__":
+    main()
